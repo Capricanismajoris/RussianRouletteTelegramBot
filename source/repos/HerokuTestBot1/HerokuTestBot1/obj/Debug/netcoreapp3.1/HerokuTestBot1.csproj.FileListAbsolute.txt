@@ -1,0 +1,16 @@
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\bin\Debug\netcoreapp3.1\HerokuTestBot1.exe
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\obj\Debug\netcoreapp3.1\HerokuTestBot1.csprojAssemblyReference.cache
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\obj\Debug\netcoreapp3.1\HerokuTestBot1.AssemblyInfoInputs.cache
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\obj\Debug\netcoreapp3.1\HerokuTestBot1.AssemblyInfo.cs
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\bin\Debug\netcoreapp3.1\HerokuTestBot1.deps.json
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\bin\Debug\netcoreapp3.1\HerokuTestBot1.runtimeconfig.json
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\bin\Debug\netcoreapp3.1\HerokuTestBot1.runtimeconfig.dev.json
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\bin\Debug\netcoreapp3.1\HerokuTestBot1.dll
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\bin\Debug\netcoreapp3.1\HerokuTestBot1.pdb
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\obj\Debug\netcoreapp3.1\HerokuTestBot1.csproj.CoreCompileInputs.cache
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\obj\Debug\netcoreapp3.1\HerokuTestBot1.csproj.CopyComplete
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\obj\Debug\netcoreapp3.1\HerokuTestBot1.dll
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\obj\Debug\netcoreapp3.1\HerokuTestBot1.pdb
+C:\Users\capri\source\repos\HerokuTestBot1\HerokuTestBot1\obj\Debug\netcoreapp3.1\HerokuTestBot1.genruntimeconfig.cache
