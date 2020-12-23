@@ -1,0 +1,16 @@
+C:\Users\capri\source\repos\await_bot\await_bot\bin\Debug\netcoreapp3.1\await_bot.exe
+C:\Users\capri\source\repos\await_bot\await_bot\obj\Debug\netcoreapp3.1\await_bot.csprojAssemblyReference.cache
+C:\Users\capri\source\repos\await_bot\await_bot\obj\Debug\netcoreapp3.1\await_bot.AssemblyInfoInputs.cache
+C:\Users\capri\source\repos\await_bot\await_bot\obj\Debug\netcoreapp3.1\await_bot.AssemblyInfo.cs
+C:\Users\capri\source\repos\await_bot\await_bot\bin\Debug\netcoreapp3.1\await_bot.deps.json
+C:\Users\capri\source\repos\await_bot\await_bot\bin\Debug\netcoreapp3.1\await_bot.runtimeconfig.json
+C:\Users\capri\source\repos\await_bot\await_bot\bin\Debug\netcoreapp3.1\await_bot.runtimeconfig.dev.json
+C:\Users\capri\source\repos\await_bot\await_bot\bin\Debug\netcoreapp3.1\await_bot.dll
+C:\Users\capri\source\repos\await_bot\await_bot\bin\Debug\netcoreapp3.1\await_bot.pdb
+C:\Users\capri\source\repos\await_bot\await_bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\capri\source\repos\await_bot\await_bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\capri\source\repos\await_bot\await_bot\obj\Debug\netcoreapp3.1\await_bot.csproj.CoreCompileInputs.cache
+C:\Users\capri\source\repos\await_bot\await_bot\obj\Debug\netcoreapp3.1\await_bot.csproj.CopyComplete
+C:\Users\capri\source\repos\await_bot\await_bot\obj\Debug\netcoreapp3.1\await_bot.dll
+C:\Users\capri\source\repos\await_bot\await_bot\obj\Debug\netcoreapp3.1\await_bot.pdb
+C:\Users\capri\source\repos\await_bot\await_bot\obj\Debug\netcoreapp3.1\await_bot.genruntimeconfig.cache
